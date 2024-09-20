@@ -1,4 +1,3 @@
-Loan-Defaulter-Analysis-Project
 Objective: Analyze the bank's loan data to derive actionable insights and recommend target customer segments for loan approvals.
 
 Data:https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter/data
